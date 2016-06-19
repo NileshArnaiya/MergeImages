@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/ivImage4"
+        android:layout_above="@+id/btnSelectPhoto4"
+        />
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:text="Upload"
+        android:id="@+id/btnSelectPhoto4"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+
+        android:background="#2eb1ec"
+        android:textSize="18sp"
+        android:textColor="#fefcfc" />
+
+</RelativeLayout><!-- From: file:/E:/AnDrOiD_StUDEOOO/DheereSeDaudna/app/src/main/res/layout/d1.xml -->

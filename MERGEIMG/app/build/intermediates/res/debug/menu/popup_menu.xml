@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/one"
+        android:title="Moto X2"/>
+
+    <item
+        android:id="@+id/two"
+        android:title="One Plus Two"/>
+
+    <item
+        android:id="@+id/three"
+        android:title="Samsung Edge plus"/>
+    <item
+        android:id="@+id/four"
+        android:title="Gionee m4"/>    <item
+    android:id="@+id/five"
+    android:title="Xiamoi mi4"/>    <item
+    android:id="@+id/six"
+    android:title="Micromax canvas 4"/>    <item
+    android:id="@+id/seven"
+    android:title="redmi 2"/>    <item
+    android:id="@+id/eight"
+    android:title="iphone 6s"/>
+
+</menu>  <!-- From: file:/E:/AnDrOiD_StUDEOOO/DheereSeDaudna/app/src/main/res/menu/popup_menu.xml -->
